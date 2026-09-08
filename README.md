@@ -285,11 +285,11 @@ For more immediate problems, you can contact us in the [#HDFix](https://discord.
 ## Nightly Builds
 
 > [!NOTE]
-> Experimental alpha builds containing the latest features and fixes are available on the [nightly release page](https://github.com/ShizCalev/MGSPatriotFix/releases/tag/nightly).
+> Experimental alpha builds containing the latest features and fixes are available on the [nightly release page](https://github.com/ShizCalev/MGSHDFix/releases/tag/nightly).
 >
 > These builds may be unstable or crash unexpectedly. They are intended for users who want to test upcoming changes before an official release.
 >
-> For the most stable experience, download the [latest official release](https://github.com/ShizCalev/MGSPatriotFix/releases/latest) instead.
+> For the most stable experience, download the [latest official release](https://github.com/ShizCalev/MGSHDFix/releases/latest) instead.
 
 <br />
 
